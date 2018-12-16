@@ -20,7 +20,7 @@ public class MainUtama extends javax.swing.JFrame {
 
     private Tempat tempat;
     private int counter = 0;
-//
+
     /**
      * 
      */
