@@ -9,10 +9,7 @@ import java.awt.Image;
 import java.net.URL;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author Aweng
- */
+
 public class Pemain extends Sel {
 
     private int lebar;
