@@ -7,10 +7,7 @@ package Model;
 
 import java.awt.Image;
 
-/**
- *
- * @author Aweng
- */
+
 public class Sel {
 
     private int lebar;
