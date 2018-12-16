@@ -24,10 +24,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Aweng
- */
+
 public class Tempat extends JPanel {
     //turunan dari JPanel
 
