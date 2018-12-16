@@ -9,10 +9,7 @@ import java.awt.Image;
 import java.net.URL;
 import javax.swing.ImageIcon;
 
-/**
- *
- * @author admin
- */
+
 public class Finish extends Sel {
 
     private int lebar;
